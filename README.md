@@ -93,6 +93,12 @@ The `--remove` option does the following:
 
 ## VERSION HISTORY
 
+### 0.0.2 (2024-01-22)
+
+* Validated same license (GPL) at top of source files.
+
+* Version bump due to updated WindowsPrivileges source.
+
 ### 0.0.1 (2024-01-19)
 
 * Initial version.
