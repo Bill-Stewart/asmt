@@ -93,6 +93,10 @@ The `--remove` option does the following:
 
 ## VERSION HISTORY
 
+### 0.0.3 (2024-01-30)
+
+* Version bump due to updated WinowsPrivileges source.
+
 ### 0.0.2 (2024-01-22)
 
 * Validated same license (GPL) at top of source files.
