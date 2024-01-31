@@ -93,9 +93,13 @@ The `--remove` option does the following:
 
 ## VERSION HISTORY
 
-### 0.0.3 (2024-01-30)
+### 0.0.4 (2024-01-31)
 
-* Version bump due to updated WinowsPrivileges source.
+* Version bump due to updated WindowsPrivileges source (bug fix).
+
+### 0.0.3 (2024-01-31)
+
+* Version bump due to updated WindowsPrivileges source.
 
 ### 0.0.2 (2024-01-22)
 
